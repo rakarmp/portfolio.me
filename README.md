@@ -9,7 +9,7 @@ Created Dev
 
 Good Day :)
 
-+++ ScreenShot +++
++++ Preview +++
 ![Screenshot from 2022-10-13 11 19 52](https://user-images.githubusercontent.com/83684256/195501151-313c135e-f002-48c7-860f-d6b2511750aa.png)
 <br>
 <br>
